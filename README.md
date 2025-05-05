@@ -1,4 +1,4 @@
-# 🪨 📄 ✂️ RPS Battle - A Python Rock-Paper-Scissors Game
+# 🧱 📄 ✂️ RPS Battle - A Python Rock-Paper-Scissors Game
 
 A terminal-based Rock-Paper-Scissors game with ASCII art visuals. Features:
 
