@@ -9,7 +9,7 @@ A terminal-based Rock-Paper-Scissors game with ASCII art visuals. Features:
 - 🛡️ **Bulletproof Input Validation**
 
 ## 🎥 Demo
-![Gameplay Demo](demo.gif)  
+![Gameplay Demo](demo1.gif)  
 *Rock crushes Scissors in action!*
 
 [![GitHub stars](https://img.shields.io/github/stars/KumiAmponsah/rps-battle?style=social)](https://github.com/KumiAmponsah/rps-battle/stargazers) 
