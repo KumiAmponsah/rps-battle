@@ -1,17 +1,22 @@
 # 🪨 📄 ✂️ RPS Battle - A Python Rock-Paper-Scissors Game
 
-![Gameplay Screenshot](screenshot.png)
+A terminal-based Rock-Paper-Scissors game with ASCII art visuals. Features:
 
-A terminal-based Rock-Paper-Scissors game with ASCII art visuals, built with Python. Battle against the computer in this classic hand game!
+## ✨ Highlights
+- 🎮 **Interactive CLI Gameplay**
+- 🖥️ **Retro ASCII Art Animations**
+- ♻️ **Instant Replay System**
+- 🛡️ **Bulletproof Input Validation**
 
-## ✨ Features
-- **ASCII Art Visuals**: See your choices come to life
-- **Simple Controls**: Just type 1, 2, or 3 to play
-- **Instant Feedback**: Clear win/lose/tie results
-- **Play Again Option**: Quick rematches with one keypress
-- **Error Handling**: Gracefully manages invalid inputs
+## 🎥 Demo
+![Gameplay Demo](demo.gif)  
+*Rock crushes Scissors in action!*
 
-## 🚀 How to Play
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/KumiAmponsah/rps-battle.git
+[![GitHub stars](https://img.shields.io/github/stars/KumiAmponsah/rps-battle?style=social)](https://github.com/KumiAmponsah/rps-battle/stargazers) 
+
+
+## 🚀 Quick Start
+```bash
+git clone https://github.com/KumiAmponsah/rps-battle.git
+cd rps-battle
+python RockPaperScissors.py
